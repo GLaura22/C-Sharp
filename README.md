@@ -6,7 +6,7 @@
  - [x] fájlkezelés json, xml, text, csv, bin
  - [x] grafikus felület - random user és adatai
  - [x] adatbázis (SQLight, MariaDB)
- - [ ] beadandó
+ - [x] beadandó
 
 ##### - szemetgyujto feladat:
       https://github.com/GLaura22/szemetgyujto/tree/master/szemetgyujto
@@ -28,6 +28,9 @@
       
       
 ##### - adatbazis --> Randomrobot feladat
+      https://github.com/GLaura22/Randomrobot/tree/master/Randomrobot
+      
+##### - beadando --> Randomrobot feladat
       https://github.com/GLaura22/Randomrobot/tree/master/Randomrobot
 
 
